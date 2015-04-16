@@ -1,0 +1,268 @@
+Initialize engine version: 4.5.4f1 (e036f44c54c9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7900 Series (ID=0x6798)
+    Vendor:   ATI
+    VRAM:     3054 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\russell\Desktop\Quicksnap\Quicksnap_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\russell\Desktop\Quicksnap\Quicksnap_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\russell\Desktop\Quicksnap\Quicksnap_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\russell\Desktop\Quicksnap\Quicksnap_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\russell\Desktop\Quicksnap\Quicksnap_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\russell\Desktop\Quicksnap\Quicksnap_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\russell\Desktop\Quicksnap\Quicksnap_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\russell\Desktop\Quicksnap\Quicksnap_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+WARNING: Shader Unsupported: 'Reflective/VertexLit' - Pass '' shader state not supported
+NullReferenceException: Object reference not set to an instance of an object
+  at TargetCamera.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Platform assembly: C:\Users\russell\Desktop\Quicksnap\Quicksnap_Data\Managed\Boo.Lang.dll (this message is harmless)
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[Shot].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at TargetCamera.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TargetCamera+<WhiteOutTargetWindow>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+TargetCamera:ShowShot(Shot)
+TargetCamera:Update()
+ 
+(Filename:  Line: -1)
+
+<shot x="-2" y="1.457083" z="0" qx="-0.3142451" qy="-0.3709379" qz="-0.1350104" qw="0.8633813" tx="-2.901558" ty="2.499989" tz="0.855547"  />
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TargetCamera+<WhiteOutTargetWindow>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+TargetCamera:ShowShot(Shot)
+TargetCamera:Update()
+ 
+(Filename:  Line: -1)
+
+<shot x="-2.679673" y="1.457083" z="1.067924" qx="0.0916262" qy="-0.6544313" qz="0.08035406" qw="0.7462356" tx="-8.473718" ty="0" tz="1.830716"  />
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Replaced shot:	1	with	<shot x="-5.391404" y="1.457083" z="1.58139" qx="0.0916262" qy="-0.6544313" qz="0.08035406" qw="0.7462356" tx="-9.859442" ty="0.3334638" tz="2.169616"  />
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TargetCamera+<WhiteOutTargetWindow>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+TargetCamera:ShowShot(Shot)
+TargetCamera:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TargetCamera+<WhiteOutTargetWindow>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+TargetCamera:ShowShot(Shot)
+TargetCamera:Update()
+ 
+(Filename:  Line: -1)
+
+<shot x="-5.391404" y="1.457083" z="1.58139" qx="0.0916262" qy="-0.6544313" qz="0.08035406" qw="0.7462356" tx="-9.859442" ty="0.3334638" tz="2.169616"  />
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TargetCamera+<WhiteOutTargetWindow>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+TargetCamera:ShowShot(Shot)
+TargetCamera:Update()
+ 
+(Filename:  Line: -1)
+
+<shot x="-8.020578" y="2.089539" z="3.402658" qx="-1.57344E-08" qy="-0.3152353" qz="-5.226518E-09" qw="0.9490136" tx="-9.859443" ty="2.089539" tz="5.865191"  />
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TargetCamera+<WhiteOutTargetWindow>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+TargetCamera:ShowShot(Shot)
+TargetCamera:Update()
+ 
+(Filename:  Line: -1)
+
+<shot x="-8.868982" y="2.689074" z="4.802425" qx="0.09027946" qy="0.1622119" qz="-0.01490517" qw="0.9825044" tx="-6.428117" ty="1.28169" tz="11.99299"  />
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Replaced shot:	3	with	<shot x="-8.908217" y="2.017073" z="5.675884" qx="0.08625379" qy="0.1429463" qz="-0.01250618" qw="0.9858856" tx="-6.911708" ty="0.7775648" tz="12.416"  />
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TargetCamera+<WhiteOutTargetWindow>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+TargetCamera:ShowShot(Shot)
+TargetCamera:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TargetCamera+<WhiteOutTargetWindow>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+TargetCamera:ShowShot(Shot)
+TargetCamera:Update()
+ 
+(Filename:  Line: -1)
+
+<shot x="-8.908217" y="2.017073" z="5.675884" qx="0.08625379" qy="0.1429463" qz="-0.01250618" qw="0.9858856" tx="-6.911708" ty="0.7775648" tz="12.416"  />
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Replaced shot:	3	with	<shot x="-8.547915" y="1.457083" z="7.060356" qx="0.0864101" qy="0.1300292" qz="-0.01137608" qw="0.9876722" tx="-7.033719" ty="0.4254968" tz="12.71142"  />
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TargetCamera+<WhiteOutTargetWindow>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+TargetCamera:ShowShot(Shot)
+TargetCamera:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TargetCamera+<WhiteOutTargetWindow>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+TargetCamera:ShowShot(Shot)
+TargetCamera:Update()
+ 
+(Filename:  Line: -1)
+
+<shot x="-8.547915" y="1.457083" z="7.060356" qx="0.0864101" qy="0.1300292" qz="-0.01137608" qw="0.9876722" tx="-7.033719" ty="0.4254968" tz="12.71142"  />
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Replaced shot:	3	with	<shot x="-8.221361" y="1.457083" z="8.460635" qx="-0.01742851" qy="0.05232772" qz="0.0009133846" qw="0.9984775" tx="-7.838039" ty="1.585143" tz="12.10772"  />
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TargetCamera+<WhiteOutTargetWindow>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+TargetCamera:ShowShot(Shot)
+TargetCamera:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TargetCamera+<WhiteOutTargetWindow>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+TargetCamera:ShowShot(Shot)
+TargetCamera:Update()
+ 
+(Filename:  Line: -1)
+
+<shot x="-8.221361" y="1.457083" z="8.460635" qx="-0.01742851" qy="0.05232772" qz="0.0009133846" qw="0.9984775" tx="-7.838039" ty="1.585143" tz="12.10772"  />
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TargetCamera+<WhiteOutTargetWindow>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+TargetCamera:ShowShot(Shot)
+TargetCamera:Update()
+ 
+(Filename:  Line: -1)
+
+<shot x="-8.128811" y="1.457083" z="9.536516" qx="-0.03488756" qy="0.02616073" qz="0.0009135534" qw="0.9990485" tx="-7.986115" ty="1.647743" tz="12.25935"  />
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Replaced shot:	4	with	<shot x="-8.548976" y="1.710066" z="10.96487" qx="0.06809021" qy="-0.3936587" qz="0.02925389" qw="0.9162646" tx="-9.547195" ty="1.504399" tz="11.91214"  />
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TargetCamera+<WhiteOutTargetWindow>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+TargetCamera:ShowShot(Shot)
+TargetCamera:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TargetCamera+<WhiteOutTargetWindow>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+TargetCamera:ShowShot(Shot)
+TargetCamera:Update()
+ 
+(Filename:  Line: -1)
+
+<shot x="-8.548976" y="1.710066" z="10.96487" qx="0.06809021" qy="-0.3936587" qz="0.02925389" qw="0.9162646" tx="-9.547195" ty="1.504399" tz="11.91214"  />
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Replaced shot:	4	with	<shot x="-9.418114" y="2.833077" z="11.86348" qx="0.08482228" qy="-0.4634713" qz="0.0446272" qw="0.8809132" tx="-15.1743" ty="1.47541" tz="15.8196"  />
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TargetCamera+<WhiteOutTargetWindow>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+TargetCamera:ShowShot(Shot)
+TargetCamera:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TargetCamera+<WhiteOutTargetWindow>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+TargetCamera:ShowShot(Shot)
+TargetCamera:Update()
+ 
+(Filename:  Line: -1)
+
+<shot x="-9.418114" y="2.833077" z="11.86348" qx="0.08482228" qy="-0.4634713" qz="0.0446272" qw="0.8809132" tx="-15.1743" ty="1.47541" tz="15.8196"  />
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TargetCamera+<WhiteOutTargetWindow>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+TargetCamera:ShowShot(Shot)
+TargetCamera:Update()
+ 
+(Filename:  Line: -1)
+
+<shot x="-9.41818" y="2.569078" z="11.89561" qx="0.08482228" qy="-0.4634713" qz="0.0446272" qw="0.8809132" tx="-15.12762" ty="1.222437" tz="15.8196"  />
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
