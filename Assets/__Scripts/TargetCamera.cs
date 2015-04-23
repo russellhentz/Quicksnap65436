@@ -35,7 +35,7 @@ public class TargetCamera : MonoBehaviour {
 		shotRating = go.GetComponent<GUIText>();
 		go = GameObject.Find("_Check_64");
 		checkMark = go.GetComponent<GUITexture>();
-		go = GameObject.Find ("WhiteOut");
+		go = GameObject.Find ("_WhiteOut");
 		WhiteOut = go.GetComponent<GUITexture>();
 		// Hide the checkMark and whiteout
 		checkMark.enabled = false;
